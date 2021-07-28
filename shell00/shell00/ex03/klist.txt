@@ -1,0 +1,5 @@
+Credentials cache: API:919F10BD-1AE2-422F-AD96-21B603C8F6C5
+        Principal: joferrei@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Jul  5 10:59:17 2021  Jul  5 20:59:17 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
